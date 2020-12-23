@@ -1,1 +1,2 @@
-# plinko-with-scores
+# Plinko
+ https://arwatelia.github.io/Plinko/.
